@@ -25,9 +25,9 @@ vi. Copy the callback URL from the authorization page and click “add new URI�
 
 vii. Then on the left menu, go to “Docs” and then procced to “Quickstart” or click https://plaid.com/docs/quickstart/#introduction. Follow the detailed Youtube video to set up the quickstart app on your local machine.
 
-viii. Go to the repository - “” and replace the ‘/quickstart/frontend/src/Components/Link/index.tsx’ file’s content with the one from the repo.
+viii. Go to the repository - “https://github.com/NikithaPa-Kore/Plaid_Guide_Code” and replace the ‘/quickstart/frontend/src/Components/Link/index.tsx’ file’s content with the one from the repo.
 
-ix. Go to the repository - “” and replace the ‘/quickstart/node/index.js’ file’s content with the one from the repo.
+ix. Go to the repository - “https://github.com/NikithaPa-Kore/Plaid_Guide_Code” and replace the ‘/quickstart/node/index.js’ file’s content with the one from the repo.
 
 x. Make sure to set your .env file with the appropriate clientId, Secret, env, products, country codes, and app port.
 
